@@ -1,0 +1,24 @@
+# Application data
+.config/Code/
+.config/dconf/user
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.token
+credentials*
+secrets*
+
+# History / caches
+.cache/
+*.log
+
+# Editor / OS files
+.DS_Store
+*.swp
+
+# Installed themes/cursors
+.icons/
+.themes/
