@@ -33,6 +33,9 @@ My personal Fedora + GNOME setup — clean, minimal, and blazingly fast.
 **Desktop**
 ![Desktop](screenshots/desktop.png)
 
+**CAVA**
+![CAVA](screenshots/cava.png)
+
 **GNOME Overview**
 ![GNOME Overview](screenshots/desk-overview.png)
 
