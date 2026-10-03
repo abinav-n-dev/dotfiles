@@ -48,6 +48,8 @@ My personal Fedora + GNOME setup — clean, minimal, and blazingly fast.
 **Obsidian & VSCode**
 ![Obsidian & VSCOde](screenshots/Obsidian&VSCode.png)
 
+**Pokeshell**
+![Pokeshell](screenshots/pokeshell.png)
 
 ## 📂 What's Inside
 
